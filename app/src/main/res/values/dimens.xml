@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="simagle420">240dp</dimen>
+    <dimen name="simagle400">240dp</dimen>
+    <dimen name="simagle_xxhdpi">240dp</dimen>
+    <dimen name="simagle_xhdpi">240dp</dimen>
+    <dimen name="simagle_hdpi">240dp</dimen>
+    <dimen name="simagle_ldpi">240dp</dimen>
+    <dimen name="simagle_mdpi">240dp</dimen>
+    <dimen name="simagle560">260dp</dimen>
+    <dimen name="simaglesw820">383dp</dimen>
+
+
+</resources>

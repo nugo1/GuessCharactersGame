@@ -1,0 +1,169 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout9"
+    android:layout_width="fill_parent"
+    android:keepScreenOn="true"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_activity"
+    android:orientation="vertical">
+
+
+    <!--  -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout11"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/ჰორიზონტალური_გაიდლაინი_რევეალი_ტრაკი"
+        tools:ignore="UnknownId">
+
+        <ImageButton
+            android:id="@+id/ivReveal"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="@dimen/_7sdp"
+            android:alpha="0.9"
+            android:background="@drawable/wallpaper_butoon"
+            android:contentDescription="@string/description"
+            android:scaleType="fitEnd"
+            android:src="@drawable/electricity"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tvLevel"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="NotSibling" />
+        <!--  -->
+
+        <TextView
+            android:id="@+id/tvLevel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="000"
+            android:textColor="@color/color_sun_flower"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <!--  -->
+
+        <TextView
+            android:id="@+id/tvCoin"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_7sdp"
+            android:gravity="center"
+            android:textColor="@color/color_clouds"
+            android:textSize="@dimen/_15sdp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tvLevel"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/reklama"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_7sdp"
+            android:alpha="0.8"
+            android:background="@drawable/wallpaper_butoon"
+            android:contentDescription="@string/description"
+            android:scaleType="fitStart"
+            android:src="@drawable/idea"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tvLevel"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="NotSibling" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/ჰორიზონტალური_გაიდლაინი_რევეალი_ტრაკი"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.94" />
+
+
+    <RelativeLayout
+        android:id="@+id/rZoom"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/gv2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.32999998">
+
+        <ImageView
+            android:id="@+id/ivZoom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/description"
+            android:scaleType="fitXY" />
+        <!--  -->
+
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/gv1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:numColumns="0"
+        app:layout_constraintBottom_toBottomOf="@+id/rZoom"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- DISPLAY SOLUTION -->
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/ჰორიზონტალური_გაიდლაინი_ფოტო"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.7" />
+
+    <GridView
+        android:id="@+id/gv2"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_61sdp"
+        android:columnWidth="0dp"
+        android:gravity="center"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="9"
+        app:layout_constraintBottom_toTopOf="@+id/gv3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <GridView
+        android:id="@+id/gv3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:columnWidth="0dp"
+        android:gravity="center"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="9"
+        android:verticalSpacing="1dp"
+        app:layout_constraintBottom_toTopOf="@+id/ჰორიზონტალური_გაიდლაინი_რევეალი_ტრაკი"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/gv3გაიდლაინი" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gv3გაიდლაინი"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.83" />
+</androidx.constraintlayout.widget.ConstraintLayout>

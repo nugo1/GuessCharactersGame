@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="battle.rate.shareღილაკისიგანე" ns1:ignore="MissingDefaultResource">280sp</dimen>
+    <dimen name="battle.rate.shareღილაკისსიმაღლე" ns1:ignore="MissingDefaultResource">40sp</dimen>
+    <dimen name="bootstrapღილაკებისტექსტისზომა" ns1:ignore="MissingDefaultResource">19dp</dimen>
+    <dimen name="imageფოტოსსიმაღლე" ns1:ignore="MissingDefaultResource">90dp</dimen>
+    <dimen name="revealსიტყვისგახსნისტექსტისზომა" ns1:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="revealსიტყვისგახსნისტექსტისზომათანხმობისღილაკი" ns1:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="revealღილაკისსიგანე" ns1:ignore="MissingDefaultResource">48dp</dimen>
+    <dimen name="solutionლეიოუტისსიმაღლე" ns1:ignore="MissingDefaultResource">0dp</dimen>
+    <dimen name="solutionსიგანე" ns1:ignore="MissingDefaultResource">36dp</dimen>
+    <dimen name="solutionსიმაღლე" ns1:ignore="MissingDefaultResource">38dp</dimen>
+    <dimen name="solutionტექსტისზომა" ns1:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="suggestსიგანე" ns1:ignore="MissingDefaultResource">0dp</dimen>
+    <dimen name="suggestსიმაღლე" ns1:ignore="MissingDefaultResource">35dp</dimen>
+    <dimen name="suggestტექსტისზომა" ns1:ignore="MissingDefaultResource">16sp</dimen>
+    <dimen name="trakiდაrevealთანხმობისღილაკისსიმაღლე" ns1:ignore="MissingDefaultResource">50sp</dimen>
+    <dimen name="trakiტექსტისზომა" ns1:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="trakiტექსტისზომათანხმობისღილაკი" ns1:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="ასოებისჩასასმელიოთხკუთხედებისდაშორებაერთმანეთისგან" ns1:ignore="MissingDefaultResource">36dp</dimen>
+    <dimen name="გონდორისხისლოგოსსიგანედასიმაღლე" ns1:ignore="MissingDefaultResource">30dp</dimen>
+    <dimen name="დამეხმარეთსიგანე" ns1:ignore="MissingDefaultResource">300sp</dimen>
+    <dimen name="დამეხმარეთსიმაღლე" ns1:ignore="MissingDefaultResource">60sp</dimen>
+    <dimen name="დამეხმარეთტექსტისზომა" ns1:ignore="MissingDefaultResource">25dp</dimen>
+    <dimen name="კონთინიუსღილაკისსიგანეland" ns1:ignore="MissingDefaultResource">50dp</dimen>
+    <dimen name="მონეტებისლეიოუტისსიგანე" ns1:ignore="MissingDefaultResource">1dp</dimen>
+    <dimen name="მონეტებისლეიოუტისსიმაღლე" ns1:ignore="MissingDefaultResource">40dp</dimen>
+    <dimen name="ტექტსტისზომაbravo" ns1:ignore="MissingDefaultResource">45sp</dimen>
+    <dimen name="ტექტსტისზომაyouhaveguessed" ns1:ignore="MissingDefaultResource">20sp</dimen>
+    <dimen name="ტექტსტისზომაგამოცნობილისიტყვა" ns1:ignore="MissingDefaultResource">20sp</dimen>
+    <dimen name="ციფრებისდამონეტებისლეიუოუტისსიმაღლე" ns1:ignore="MissingDefaultResource">0dp</dimen>
+    <dimen name="ციფრებისზომა" ns1:ignore="MissingDefaultResource">22sp</dimen>
+    <fraction name="axalisollutionismdebareoba" ns1:ignore="MissingDefaultResource">0.11</fraction>
+    <fraction name="trakiდაrevealლეიოუტისმდებარეობაპროცენტულად" ns1:ignore="MissingDefaultResource">0.81</fraction>
+    <fraction name="ფოტოსდისფლეისპროცენტიეკრანზე" ns1:ignore="MissingDefaultResource">0.75</fraction>
+</resources>

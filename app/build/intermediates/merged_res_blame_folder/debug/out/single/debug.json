@@ -1,0 +1,1494 @@
+[
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_grid_solution.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/grid_solution.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ptn_bg_stitch.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ptn_bg_stitch.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__33_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_33_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__34_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_34_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_back.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_asdasd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/asdasd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__30_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_30_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_sollution_butoon.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/sollution_butoon.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__38_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_38_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_dialog_continue.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/dialog_continue.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__39_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_39_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__32_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_32_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__31_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_31_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/font_sharpe.ttf.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/font/sharpe.ttf"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_efwfwef.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/efwfwef.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_logo.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_logo.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__37_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_37_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__41_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_41_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__36_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_36_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__35_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_35_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__40_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_40_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_badge_appoftheday.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_badge_appoftheday.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_sffd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/sffd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash00.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash00.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_button_grey_normal.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_button_grey_normal.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_empty_large.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_empty_large.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_level.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_level.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_activity_bootstrap.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/activity_bootstrap.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_click.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/click.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_rere.bmp.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/rere.bmp"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_haha.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/haha.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_jokerdialog.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_jokerdialog.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_logo_premium.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/logo_premium.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/font_lotr.ttf.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/font/lotr.ttf"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__1_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_1_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__3_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_3_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__4_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_4_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_imageedit_1_5173330936.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/imageedit_1_5173330936.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__2_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_2_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_kaka22.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/kaka22.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__45_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_45_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__46_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_46_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__25_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_25_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__23_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_23_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_download.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__24_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_24_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__28_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_28_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__42_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_42_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_coin_image.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/coin_image.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__29_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_29_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__21_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_21_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__44_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_44_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__43_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_43_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_kkk.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/kkk.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_photo.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_photo.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__22_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_22_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_dialog_remove.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/dialog_remove.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_empty.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_empty.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_default.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_default.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_bar_checked.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_bar_checked.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_login_letter.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/login_letter.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_jjk.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/jjk.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_coins.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_coins.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__49_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_49_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/font_british.ttf.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/font/british.ttf"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__50_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_50_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_wrwerweew.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/wrwerweew.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_werwerwr.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/werwerwr.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__27_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_27_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__48_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_48_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__47_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_47_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_asdad.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/asdad.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__26_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_26_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_sound_off.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_sound_off.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__13_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_13_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__11_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_11_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__51_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_51_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__55_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_55_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_suggest_butoon.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/suggest_butoon.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__17_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_17_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_electricity.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/electricity.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__53_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_53_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__60_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_60_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_fg.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/fg.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_loginbutton_blue_normal.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_loginbutton_blue_normal.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__59_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_59_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__20_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_20_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__62_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_62_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__15_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_15_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_dsfsdf.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/dsfsdf.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_suggest_disabled.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/suggest_disabled.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__57_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_57_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_kakaotalk.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_kakaotalk.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splagjghsh00.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splagjghsh00.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__9_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_9_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash4.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash4.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ptn_bg_activity.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ptn_bg_activity.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__7_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_7_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_dsadas.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/dsadas.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__5_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_5_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_custom_button.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_gredddddden.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_gredddddden.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_facebook_new.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_facebook_new.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__19_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_19_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_arrow.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_arrow.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_no.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/no.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/font_anirm.ttf.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/font/anirm.ttf"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_vunglepub_sdk_unmute.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/vunglepub_sdk_unmute.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_lala.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/lala.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_sound_on.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_sound_on.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_bg_bar.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/bg_bar.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_off_while.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/off_while.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__22_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_22_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout-land_activity_main.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__45_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_45_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__43_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_43_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_key.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_key.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__9_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_9_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_gaxsnapressed.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_gaxsnapressed.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__62_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_62_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__87_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_87_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__66_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_66_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__7_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_7_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__41_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_41_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__49_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_49_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_asddas.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/asddas.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__28_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_28_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__20_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_20_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__85_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_85_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_loginbutton_blue_pressed.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__64_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_64_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_applause.wav.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/applause.wav"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_icon.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_icon.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__70_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_70_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button2.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button2.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__26_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_26_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__30_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_30_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__47_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_47_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_grey.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_grey.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__51_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_51_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__24_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_24_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_dialog_reveal.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/dialog_reveal.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__89_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_89_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__68_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_68_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__72_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_72_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_photodata.txt.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/photodata.txt"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__57_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_57_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_asdd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/asdd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__36_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_36_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__34_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_34_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_pressed.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_adsasd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/adsasd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_ic_arrow_right.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_ic_arrow_right.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_imageedit_13_5846143968.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/imageedit_13_5846143968.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__13_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_13_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__17_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_17_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__74_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_74_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__78_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_78_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__53_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_53_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__32_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_32_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_loginbutton_blue_focused.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_loginbutton_blue_focused.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_half.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_half.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_book.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_book.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__55_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_55_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_suggest_default.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/suggest_default.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_bg_activity.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/bg_activity.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_joker_reveal_pressed.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_joker_reveal_pressed.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__11_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_11_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__19_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_19_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__76_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_76_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/font_thrones.ttf.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/font/thrones.ttf"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__3_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_3_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__5_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_5_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__1_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_1_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_sdfssfd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/sdfssfd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__83_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_83_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__59_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_59_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__38_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_38_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__81_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_81_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash110.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash110.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_ratingbubble_logo.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_ratingbubble_logo.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__60_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_60_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__15_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_15_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__75_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_75_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__76_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_76_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_titu.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/titu.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__73_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_73_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__77_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_77_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_shop.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_shop.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_kako.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/kako.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_kaka.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/kaka.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_level_small.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_level_small.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_ic_arrow_back.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_ic_arrow_back.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__74_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_74_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__80_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_80_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout-land_dialog_continue.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout-land/dialog_continue.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__81_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_81_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_success_coins.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/success_coins.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__84_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_84_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__79_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_79_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_activity_damexmaret.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/activity_damexmaret.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_bought_joker.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/bought_joker.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__82_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_82_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__78_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_78_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__83_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_83_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_vunglepub_sdk_mute.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/vunglepub_sdk_mute.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_sdfsdfsdf.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/sdfsdfsdf.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_joker_remove.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_joker_remove.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_grid_image.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/grid_image.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_lala.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/lala.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_half_large.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_half_large.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_hint_button_def.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/hint_button_def.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout-land_grid_suggest.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout-land/grid_suggest.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_sollution_pressed.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/sollution_pressed.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash1.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash1.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_traki.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/traki.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/menu_main.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/menu/main.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash0.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash0.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_green_pressed.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_green_pressed.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_success_woosh.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/success_woosh.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_splash3.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/splash3.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_coin1.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/coin1.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bjhv.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bjhv.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__88_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_88_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__67_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_67_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__66_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_66_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__68_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_68_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_transparent.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/transparent.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__89_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_89_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__85_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_85_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__64_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_64_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_xma.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/xma.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__86_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_86_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__65_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_65_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_paypal.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/paypal.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__87_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_87_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_suggest_pressed.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/suggest_pressed.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_damexmaret_pressed.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/damexmaret_pressed.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ddd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ddd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__90_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_90_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_disabled.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_disabled.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__72_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_72_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__71_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_71_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_custom_gaxsnabutton.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/custom_gaxsnabutton.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_image_zoom.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/image_zoom.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__69_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_69_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__70_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_70_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout-land_grid_solution.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout-land/grid_solution.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__12_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_12_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__54_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_54_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__56_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_56_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_powered_by.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_powered_by.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__16_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_16_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_wallpaper_default.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/wallpaper_default.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__52_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_52_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__10_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_10_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_joker_reveal.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_joker_reveal.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__18_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_18_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_dsfsfd.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/dsfsfd.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_gaxsna.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_gaxsna.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__63_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_63_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__58_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_58_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_sadu.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/sadu.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__61_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_61_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__14_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_14_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_button_grey_focused.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_button_grey_focused.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_on_white.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/on_white.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_button_gaxsnadisabled.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/button_gaxsnadisabled.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_www.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/www.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__8_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_8_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_sollution_default.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/sollution_default.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_coinsland.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_coinsland.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_traki.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/traki.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ptn_bg_actionbar.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ptn_bg_actionbar.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_full.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_full.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_geo.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/geo.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_closebox.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/closebox.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_check.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_check.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__6_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_6_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_close.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__86_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_86_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__65_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_65_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__44_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_44_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_bomb_reminder.mp3.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/bomb_reminder.mp3"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__23_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_23_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout_grid_suggest.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout/grid_suggest.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__88_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_88_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__84_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_84_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__27_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_27_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__8_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_8_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__6_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_6_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_btn_green.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/btn_green.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__63_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_63_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__42_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_42_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__29_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_29_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__21_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_21_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__90_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_90_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_wefwef.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/wefwef.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_few.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/few.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_icon_default.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_icon_default.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_sdfdsf.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/sdfdsf.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__71_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_71_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_border_suggest.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/border_suggest.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_coin.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_coin.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__69_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_69_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__48_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_48_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__52_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_52_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_showcharacter.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_showcharacter.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__73_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_73_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_damexmaret.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/damexmaret.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_com_facebook_button_grey_pressed.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/com_facebook_button_grey_pressed.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_wallpaper_pressed.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/wallpaper_pressed.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__67_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_67_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__46_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_46_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__25_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_25_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__50_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_50_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/layout-land_activity_bootstrap.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/layout-land/activity_bootstrap.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__35_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_35_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__14_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_14_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__56_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_56_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__77_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_77_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__79_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_79_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_star_full_large.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_star_full_large.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw_vunglepub_sdk_close.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/vunglepub_sdk_close.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_idea.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/idea.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__31_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_31_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__10_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_10_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__39_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_39_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__18_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_18_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__75_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_75_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__33_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_33_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__12_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_12_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__54_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_54_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_ratingbubble_logo_large.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_ratingbubble_logo_large.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_shop_item_premium.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/shop_item_premium.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_wallpaper_disabled.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/wallpaper_disabled.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__2_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_2_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__4_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_4_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_ic_imprint.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/ic_imprint.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_bg_slot.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/bg_slot.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable_wallpaper_butoon.xml.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable/wallpaper_butoon.xml"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__80_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_80_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/drawable-hdpi_cps_ic_arrow_scribble.png.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/drawable-hdpi/cps_ic_arrow_scribble.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__61_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_61_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__40_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_40_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.mbrdzanebeli.App.app-debug-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__82_2.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_82_2.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__58_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_58_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__37_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_37_1.jpg"
+    },
+    {
+        "merged": "com.mbrdzanebeli.App.app-merged_res-41:/raw__16_1.jpg.flat",
+        "source": "com.mbrdzanebeli.App.app-main-43:/raw/_16_1.jpg"
+    }
+]

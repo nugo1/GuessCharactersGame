@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:keepScreenOn="true"
+    android:background="@drawable/splash0"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:id="@+id/damexmaret"
+            android:layout_width="@dimen/გონდორისხისლოგოსსიგანედასიმაღლე"
+            android:layout_height="@dimen/გონდორისხისლოგოსსიგანედასიმაღლე"
+            android:background="@drawable/damexmaret"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/play"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginBottom="@dimen/_6sdp"
+            android:background="@drawable/wallpaper_butoon"
+            android:gravity="center"
+
+            android:text="@string/dawyeba"
+            android:textColor="@color/ციფრებისფერი"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="bold"
+
+            ads:layout_constraintBottom_toTopOf="@+id/btnRate"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintLeft_toLeftOf="parent"
+            ads:layout_constraintRight_toRightOf="parent"
+            ads:layout_constraintStart_toStartOf="parent"
+            tools:ignore="SpUsage" />
+
+        <Button
+            android:id="@+id/btnRate"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginBottom="@dimen/_6sdp"
+            android:background="@drawable/wallpaper_butoon"
+
+            android:gravity="center"
+            android:onClick="rateMe"
+
+            android:text="@string/shepaseba"
+            android:textColor="@color/ციფრებისფერი"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="bold"
+            ads:layout_constraintBottom_toTopOf="@+id/gauziaresxvas"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintLeft_toLeftOf="parent"
+            ads:layout_constraintRight_toRightOf="parent"
+            ads:layout_constraintStart_toStartOf="parent"
+            tools:ignore="SpUsage" />
+
+        <Button
+
+            android:id="@+id/gauziaresxvas"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:background="@drawable/wallpaper_butoon"
+            android:text="@string/gaziareba"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/ციფრებისფერი"
+
+            android:textStyle="bold"
+            ads:layout_constraintBottom_toTopOf="@+id/bSound"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintLeft_toLeftOf="parent"
+            ads:layout_constraintRight_toRightOf="parent"
+            ads:layout_constraintStart_toStartOf="parent"
+            tools:ignore="SpUsage" />
+
+        <TextView
+            android:id="@+id/tvLevel0"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@color/blue_question_select"
+            android:gravity="center"
+            android:text="123"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:visibility="visible"
+            ads:layout_constraintEnd_toEndOf="parent"
+            ads:layout_constraintLeft_toLeftOf="parent"
+            ads:layout_constraintRight_toRightOf="parent"
+            ads:layout_constraintStart_toStartOf="parent"
+            ads:layout_constraintTop_toTopOf="parent"
+            tools:ignore="HardcodedText,UnknownId" />
+
+
+        <ImageButton
+            android:id="@+id/bSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/btn_sound_on"
+            android:visibility="invisible"
+            ads:layout_constraintBottom_toBottomOf="parent"
+            ads:layout_constraintLeft_toLeftOf="parent"
+            ads:layout_constraintRight_toRightOf="parent"
+            tools:ignore="ContentDescription" />
+
+
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_minus14sdp"
+        android:src="@drawable/geo"
+        android:contentDescription="@string/description" />
+</LinearLayout>

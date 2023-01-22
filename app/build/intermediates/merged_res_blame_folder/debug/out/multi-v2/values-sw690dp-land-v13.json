@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mbrdzanebeli.App.app-mergeDebugResources-39:/values-sw690dp-land-v13/values-sw690dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\4pics1word-master1\\LORDOFTHEWORDS\\app\\src\\main\\res\\values-sw690dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
